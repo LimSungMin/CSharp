@@ -1,0 +1,9 @@
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\구구단 계산기\bin\Debug\구구단 계산기.exe.config
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\구구단 계산기\bin\Debug\구구단 계산기.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\구구단 계산기\bin\Debug\구구단 계산기.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\구구단 계산기\obj\Debug\구구단_계산기.구구단폼.resources
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\구구단 계산기\obj\Debug\구구단_계산기.Properties.Resources.resources
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\구구단 계산기\obj\Debug\구구단 계산기.csproj.GenerateResource.Cache
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\구구단 계산기\obj\Debug\구구단 계산기.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\구구단 계산기\obj\Debug\구구단 계산기.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\구구단 계산기\obj\Debug\구구단 계산기.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\트레이 아이콘\bin\Debug\트레이 아이콘.exe.config
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\트레이 아이콘\bin\Debug\트레이 아이콘.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\트레이 아이콘\obj\Debug\트레이 아이콘.csprojResolveAssemblyReference.cache
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\트레이 아이콘\obj\Debug\트레이_아이콘.Form1.resources
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\트레이 아이콘\obj\Debug\트레이_아이콘.Properties.Resources.resources
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\트레이 아이콘\obj\Debug\트레이 아이콘.csproj.GenerateResource.Cache
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\트레이 아이콘\obj\Debug\트레이 아이콘.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\트레이 아이콘\obj\Debug\트레이 아이콘.pdb

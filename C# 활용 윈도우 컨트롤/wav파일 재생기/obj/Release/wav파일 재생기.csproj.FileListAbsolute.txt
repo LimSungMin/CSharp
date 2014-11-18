@@ -1,0 +1,14 @@
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\bin\Release\wav파일 재생기.exe.config
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\bin\Release\wav파일 재생기.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\bin\Release\wav파일 재생기.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\bin\Release\playsound.dll
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\bin\Release\playsound.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\obj\Release\wav파일 재생기.csprojResolveAssemblyReference.cache
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\obj\Release\wav파일_재생기.Form1.resources
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\obj\Release\wav파일_재생기.Properties.Resources.resources
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\obj\Release\wav파일 재생기.csproj.GenerateResource.Cache
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\obj\Release\wav파일 재생기.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\wav파일 재생기\obj\Release\wav파일 재생기.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\C# 활용 윈도우 컨트롤\wav파일 재생기\bin\Release\wav파일 재생기.exe.config
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\C# 활용 윈도우 컨트롤\wav파일 재생기\obj\Release\wav파일 재생기.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\C# 활용 윈도우 컨트롤\wav파일 재생기\obj\Release\wav파일 재생기.pdb

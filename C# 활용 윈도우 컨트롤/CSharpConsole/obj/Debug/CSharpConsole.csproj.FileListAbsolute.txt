@@ -1,0 +1,6 @@
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\CSharpConsole\bin\Debug\CSharpConsole.exe.config
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\CSharpConsole\bin\Debug\CSharpConsole.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\CSharpConsole\bin\Debug\CSharpConsole.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\CSharpConsole\obj\Debug\CSharpConsole.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\CSharpConsole\obj\Debug\CSharpConsole.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\CSharpConsole\obj\Debug\CSharpConsole.csprojResolveAssemblyReference.cache

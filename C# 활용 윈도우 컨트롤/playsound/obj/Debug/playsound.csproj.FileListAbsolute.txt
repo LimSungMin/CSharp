@@ -1,0 +1,4 @@
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\playsound\bin\Debug\playsound.dll
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\playsound\bin\Debug\playsound.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\playsound\obj\Debug\playsound.dll
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\playsound\obj\Debug\playsound.pdb

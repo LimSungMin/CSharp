@@ -1,0 +1,5 @@
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\playsound\bin\Release\playsound.dll
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\playsound\bin\Release\playsound.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\playsound\obj\Release\playsound.csprojResolveAssemblyReference.cache
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\playsound\obj\Release\playsound.dll
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\설문조사\playsound\obj\Release\playsound.pdb
