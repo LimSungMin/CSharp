@@ -1,0 +1,8 @@
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\로그인 폼\로그인 폼\bin\Debug\로그인 폼.exe.config
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\로그인 폼\로그인 폼\bin\Debug\로그인 폼.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\로그인 폼\로그인 폼\bin\Debug\로그인 폼.pdb
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\로그인 폼\로그인 폼\obj\Debug\로그인_폼.Form1.resources
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\로그인 폼\로그인 폼\obj\Debug\로그인_폼.Properties.Resources.resources
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\로그인 폼\로그인 폼\obj\Debug\로그인 폼.csproj.GenerateResource.Cache
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\로그인 폼\로그인 폼\obj\Debug\로그인 폼.exe
+C:\Users\sungmin\Dropbox\IDE\Visual Studio\CSharp\로그인 폼\로그인 폼\obj\Debug\로그인 폼.pdb
